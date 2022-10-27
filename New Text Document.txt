@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git base
 git base 1
+=======
+git base2
+>>>>>>> 6b2ee2b2d65e5956428254fe5deea5828b4550e2
